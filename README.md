@@ -2,7 +2,7 @@
 
 Built with Ruby on Rails and React
 
-#Setup
+## Setup
 1. Run bundle install
 2. Add application.yml to config
 3. Run rails s
