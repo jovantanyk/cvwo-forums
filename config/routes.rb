@@ -3,4 +3,6 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
    root "welcome#index"
+
+   get "/api/welcome", to: "api/welcome#index"
 end
